@@ -1,9 +1,9 @@
 # ReadmeGenerator
 
-# Description
+## Description
 A tool to quickly generate a professional README for a new project.
 
-# Video Tutorial
+## Video Tutorial
 
 ## Table of Contents
 - [Installation](#installation)
